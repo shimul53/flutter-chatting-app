@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "614089939267",
+    "project_id": "flash-chat-e8c62",
+    "storage_bucket": "flash-chat-e8c62.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:614089939267:android:2015679d9e362a577cf7f6",
+        "android_client_info": {
+          "package_name": "co.appbrewery.flash_chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "614089939267-aauoodti7s8a7nogf8kd9fagl581g4d6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB2YxC_Sz2DZh40O8sRit9Eulo5n128qrc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "614089939267-aauoodti7s8a7nogf8kd9fagl581g4d6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:614089939267:android:fd37dbd20a6dc5257cf7f6",
+        "android_client_info": {
+          "package_name": "com.shimultamo.flash_chat_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "614089939267-aauoodti7s8a7nogf8kd9fagl581g4d6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB2YxC_Sz2DZh40O8sRit9Eulo5n128qrc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "614089939267-aauoodti7s8a7nogf8kd9fagl581g4d6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
